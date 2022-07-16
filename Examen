@@ -1,7 +1,10 @@
 [
-    { "alumno":"Elena",
-     "nota":3.00,
+    { "alumno":"Sebastian",
+     "nota":2.00,
      "ranking":2},
+    { "alumno":"Elena",
+     "nota":10.00,
+     "ranking":11},
     { "alumno":"Mario",
      "nota":4.00,
      "ranking":3},
