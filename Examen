@@ -1,9 +1,9 @@
 [
     { "alumno":"Elena",
-     "nota":1.50,
+     "nota":3.50,
      "ranking":2},
     { "alumno":"Mario",
-     "nota":3.50,
+     "nota":4.00,
      "ranking":3},
     { "alumno":"Juana",
      "nota":4.50,
